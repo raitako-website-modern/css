@@ -38,6 +38,7 @@ hr {
     border-left: 1px solid #C5CFD9;
     border-right: 1px solid #C5CFD9;
     background-color: #FFFFFF;
+    border-radius: 10px;
 }
 
 @media (prefers-color-scheme: dark) {
